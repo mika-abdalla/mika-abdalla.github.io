@@ -3,8 +3,6 @@ title: About
 layout: page
 ---
 
-# About
-
 Hi, I'm Mika. I write about mobile user acquisition and monetization.
 
 ## Background
