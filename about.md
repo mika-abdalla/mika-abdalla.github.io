@@ -5,11 +5,11 @@ layout: page
 
 # About
 
-Hi, I'm 你的名字. I write about mobile user acquisition and monetization.
+Hi, I'm Mika. I write about mobile user acquisition and monetization.
 
 ## Background
 
-- 3+ years in digital marketing on the client side, with a background in SEO and acquisition.
+- 5+ years in digital marketing on the client side, with a background in SEO and acquisition.
 - Served as the direct client contact — from needs discovery to proposal, delivery, and reporting.
 - Now focused on programmatic advertising, DSP, and offerwall for app growth.
 
@@ -19,5 +19,5 @@ I help app developers and UA teams with practical, data-driven growth — loweri
 
 <div class="cta-box">
   <strong>Working on user acquisition or monetization?</strong><br>
-  <a href="你的领英链接">Let's connect on LinkedIn</a>
+  <a href="https://www.linkedin.com/in/mika-lee-0a920044a/">Let's connect on LinkedIn</a>
 </div>
