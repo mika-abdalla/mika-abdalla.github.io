@@ -3,7 +3,7 @@ description: >-
   Practical notes on mobile user acquisition and monetization
   for app developers and UA managers.
 url: "https://mika-abdalla.github.io"
-theme: minima
+remote_theme: cotes2020/jekyll-theme-chirpy
 plugins:
   - jekyll-sitemap
   - jekyll-feed
