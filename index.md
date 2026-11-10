@@ -3,8 +3,6 @@ title: Mobile Growth Notes
 layout: page
 ---
 
-# Mobile Growth Notes
-
 Practical notes on mobile user acquisition and monetization — for app developers and UA managers.
 
 <div class="cta-box">
