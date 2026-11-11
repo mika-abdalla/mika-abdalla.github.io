@@ -7,6 +7,8 @@ layout: post
 image: /assets/images/cpi-vs-ltv-how-to-know-if-ua-is-profitable.png
 ---
 
+![CPI vs LTV: How to Know if UA Is Profitable](/assets/images/cpi-vs-ltv-how-to-know-if-ua-is-profitable.png)
+
 The fundamental rule for profitable user acquisition is simple: **LTV > CPI**.
 
 Your user's Lifetime Value must exceed their Cost Per Install. If it doesn't, every install loses money, and no amount of creative optimization will fix broken unit economics.
