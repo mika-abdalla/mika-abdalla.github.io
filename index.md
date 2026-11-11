@@ -19,6 +19,14 @@ Practical notes on mobile user acquisition and monetization — for app develope
 
 ## Latest posts
 
+<div class="post-grid">
 {% for post in site.posts %}
-- [{{ post.title }}]({{ post.url | relative_url }})
+  <a class="post-card" href="{{ post.url | relative_url }}">
+    {% if post.image %}<img class="post-card-img" src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">{% endif %}
+    <span class="post-card-body">
+      <span class="post-card-title">{{ post.title | escape }}</span>
+      <span class="post-card-desc">{{ post.description | default: post.excerpt | strip_html | truncate: 140 }}</span>
+    </span>
+  </a>
 {% endfor %}
+</div>
