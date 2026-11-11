@@ -7,6 +7,8 @@ layout: post
 image: /assets/images/how-to-lower-cpi-without-killing-retention.png
 ---
 
+![How to Lower CPI Without Killing Retention in 2026](/assets/images/how-to-lower-cpi-without-killing-retention.png)
+
 Cheap installs mean nothing if users disappear on Day 1.
 
 I've watched teams celebrate a $0.80 CPI, only to discover their D7 retention dropped from 28% to 14% (illustrative example). The math stops working fast when you optimize for the wrong metric.
