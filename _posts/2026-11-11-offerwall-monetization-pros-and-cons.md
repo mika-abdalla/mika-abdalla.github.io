@@ -142,3 +142,8 @@ Offerwall monetization is a potent but risky tool.
 The choice is not about which format has the highest eCPM, but which format acquires and retains users who will deliver the highest total LTV for your specific application.
 
 The right answer is always rooted in your data.
+
+---
+
+**About the author:** I help app developers scale user acquisition and monetization. 5+ years in digital marketing, now focused on programmatic advertising and offerwall. [Let's connect on LinkedIn](https://www.linkedin.com/in/mika-lee-0a920044a/)
+
