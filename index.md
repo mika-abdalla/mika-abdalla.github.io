@@ -23,6 +23,11 @@ Practical notes on mobile user acquisition and monetization — for app develope
 {% for post in site.posts %}
   <a class="post-card" href="{{ post.url | relative_url }}">
     {% if post.image %}<img class="post-card-img" src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}">{% endif %}
+    {% if post.tags.size > 0 %}
+    <span class="post-tags">
+      {%- for tag in post.tags -%}<span class="tag">{{ tag }}</span>{%- endfor -%}
+    </span>
+    {% endif %}
     <span class="post-card-title">{{ post.title | escape }}</span>
   </a>
 {% endfor %}
