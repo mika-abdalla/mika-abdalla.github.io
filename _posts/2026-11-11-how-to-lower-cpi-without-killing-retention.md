@@ -134,3 +134,7 @@ Stop optimizing for the lowest cost per install. Start optimizing for the lowest
 Seed lookalikes from high-value users. Exclude low-quality segments before you spend. Refine geographic targeting based on LTV, not just CPI. Align creative messaging with product experience. Adjust bidding windows based on retention data.
 
 The cheapest user isn't always the best user. Sometimes the expensive user is the most profitable one.
+
+---
+
+**About the author:** I help app developers scale user acquisition and monetization. 5+ years in digital marketing, now focused on programmatic advertising and offerwall. [Let's connect on LinkedIn](https://www.linkedin.com/in/mika-lee-0a920044a/)
