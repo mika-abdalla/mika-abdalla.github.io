@@ -5,9 +5,8 @@ date: 2026-11-11
 permalink: /how-to-lower-cpi-without-killing-retention/
 layout: post
 image: /assets/images/how-to-lower-cpi-without-killing-retention.png
+tags: [ua, cpi, retention]
 ---
-
-![How to Lower CPI Without Killing Retention in 2026](/assets/images/how-to-lower-cpi-without-killing-retention.png)
 
 Cheap installs mean nothing if users disappear on Day 1.
 
