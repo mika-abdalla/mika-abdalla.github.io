@@ -4,6 +4,7 @@ description: "Discover offerwall monetization's trade-offs: high eCPMs vs. user 
 date: 2026-11-11
 permalink: /offerwall-monetization-pros-and-cons/
 layout: post
+image: /assets/images/offerwall-monetization-pros-and-cons.png
 ---
 
 ## Introduction: Beyond Surface-Level eCPMs
