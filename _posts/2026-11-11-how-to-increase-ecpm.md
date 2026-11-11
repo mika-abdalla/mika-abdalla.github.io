@@ -161,5 +161,4 @@ Start with one. Prove it works. Then move to the next.
 
 ---
 
-**About the author:** I help app developers scale user acquisition and monetization. 5+ years in digital marketing, now focused on programmatic advertising and offerwall. [Let's connect on LinkedIn](https://www.linkedin.com/in/mika-lee-0a920044a/)
-
+**About the author:** I'm a mobile growth consultant helping app developers scale UA and monetize better — DSP, offerwall, and programmatic, mainly in SEA and LATAM. [Let's connect on LinkedIn](https://www.linkedin.com/in/mika-lee-0a920044a/)
