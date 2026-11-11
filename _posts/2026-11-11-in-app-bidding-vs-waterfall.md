@@ -113,3 +113,8 @@ The industry has moved from a system based on predicting value through historica
 The waterfall isn't entirely dead, but its role has permanently changed. It's now a supporting player, not the star of the show.
 
 If your stack is still waterfall-dominant, your primary strategic goal should be to integrate bidders and transition to a hybrid model to remain competitive. [As industry data consistently shows](https://www.airbridge.io/), this transition is not just a trend, but a necessary evolution for maximizing ad revenue.
+
+---
+
+**About the author:** I help app developers scale user acquisition and monetization. 5+ years in digital marketing, now focused on programmatic advertising and offerwall. [Let's connect on LinkedIn](https://www.linkedin.com/in/mika-lee-0a920044a/)
+
