@@ -5,9 +5,8 @@ date: 2026-11-11
 permalink: /cpi-vs-ltv-how-to-know-if-ua-is-profitable/
 layout: post
 image: /assets/images/cpi-vs-ltv-how-to-know-if-ua-is-profitable.png
+tags: [ua, cpi, ltv, metrics]
 ---
-
-![CPI vs LTV: How to Know if UA Is Profitable](/assets/images/cpi-vs-ltv-how-to-know-if-ua-is-profitable.png)
 
 The fundamental rule for profitable user acquisition is simple: **LTV > CPI**.
 
