@@ -156,3 +156,8 @@ The four key levers are: adopting **in-app bidding**, optimizing **ad placements
 Each lever compounds the others. Better traffic improves fill rate and bid density. Better placements improve engagement. Better floors improve yield. Better auction mechanics surface the true highest bidder.
 
 Start with one. Prove it works. Then move to the next.
+
+---
+
+**About the author:** I help app developers scale user acquisition and monetization. 5+ years in digital marketing, now focused on programmatic advertising and offerwall. [Let's connect on LinkedIn](https://www.linkedin.com/in/mika-lee-0a920044a/)
+
