@@ -143,3 +143,7 @@ The goal of UA is not to find the lowest CPI. It's to find the most profitable L
 Stop asking "What is my CPI?" and start asking "What is my ROAS on Day 90, and is it profitable?"
 
 The answer to that question, guided by the **LTV > CPI** principle, is the key to scaling your app sustainably.
+
+---
+
+**About the author:** I help app developers scale user acquisition and monetization. 5+ years in digital marketing, now focused on programmatic advertising and offerwall. [Let's connect on LinkedIn](https://www.linkedin.com/in/mika-lee-0a920044a/)
