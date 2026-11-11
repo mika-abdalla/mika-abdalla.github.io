@@ -87,3 +87,34 @@ article img {
     grid-template-columns: 1fr;
   }
 }
+
+.related-posts {
+  margin-top: 48px;
+  padding-top: 24px;
+  border-top: 1px solid #e3e8ef;
+}
+
+.related-posts h2 {
+  font-size: 1.2em;
+  margin-bottom: 12px;
+}
+
+.related-posts ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.related-posts li {
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+
+.related-posts li a {
+  color: #1a56db;
+  text-decoration: none;
+}
+
+.related-posts li a:hover {
+  text-decoration: underline;
+}
