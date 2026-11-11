@@ -4,6 +4,7 @@ description: "Compare in-app bidding vs waterfall models. Learn why hybrid setup
 date: 2026-11-11
 permalink: /in-app-bidding-vs-waterfall/
 layout: post
+image: /assets/images/in-app-bidding-vs-waterfall.png
 ---
 
 The mobile ad monetization stack has fundamentally changed. The sequential waterfall model that dominated for years has been replaced by parallel in-app bidding. Today, most sophisticated publishers run a hybrid configuration that combines both approaches.
