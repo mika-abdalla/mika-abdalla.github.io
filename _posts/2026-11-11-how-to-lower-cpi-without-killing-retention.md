@@ -10,9 +10,11 @@ tags: [ua, cpi, retention]
 
 Cheap installs mean nothing if users disappear on Day 1.
 
-I've watched teams celebrate a $0.80 CPI, only to discover their D7 retention dropped from 28% to 14% (illustrative example). The math stops working fast when you optimize for the wrong metric.
+I've watched teams celebrate a $0.80 CPI, only to discover their D7 retention dropped from 28% to 14%. The math stops working fast when you optimize for the wrong metric.
 
 Lowering CPI while protecting retention means treating acquisition as a quality problem, not just a volume problem. The goal isn't the cheapest install—it's the most efficient path to a retained, monetizing user.
+
+*The numbers in this article are illustrative examples, not benchmarks.*
 
 ## Why CPI and Retention Pull in Opposite Directions
 
@@ -34,7 +36,7 @@ Most lookalike audiences are built from everyone who installed your app. That's 
 
 When you seed from all installs, the algorithm finds more people who look like your average user—including those who churned immediately. When you seed from users who subscribed, made a purchase, or hit Day 30, the algorithm finds people who look like your best users.
 
-I've seen this shift drop CPI by 15–20% while improving D7 retention by 8–12 percentage points (illustrative example). Volume is lower at first, but cohort quality is stronger.
+I've seen this shift drop CPI by 15–20% while improving D7 retention by 8–12 percentage points. Volume is lower at first, but cohort quality is stronger.
 
 Build separate lookalikes for high-retention users, high-LTV users, and recent converters. Test each against your baseline. Scale the ones that deliver better unit economics, even if CPI is slightly higher.
 
@@ -46,13 +48,13 @@ Exclude users who already installed your app. Exclude cohorts that consistently 
 
 Most ad platforms let you upload exclusion lists directly. According to industry data cited by Linkrunner, excluding these groups can cut CPI by 15–30% in some cases.
 
-I also exclude geographies where eCPM is too low to support monetization. If a region delivers $0.12 ARPDAU and your CPI floor is $0.90 (illustrative example), the math won't work—even if retention looks acceptable.
+I also exclude geographies where eCPM is too low to support monetization. If a region delivers $0.12 ARPDAU and your CPI floor is $0.90, the math won't work—even if retention looks acceptable.
 
 ### 3. Refine Geographic Targeting Based on LTV, Not Just CPI
 
 Not all cities deliver equal user value.
 
-You might find that tier-1 metro users cost $2.20 per install but generate 2.4x the LTV of tier-2 users who cost $1.10 (illustrative example). The cheaper install looks better on a dashboard, but the expensive one is more profitable.
+You might find that tier-1 metro users cost $2.20 per install but generate 2.4x the LTV of tier-2 users who cost $1.10. The cheaper install looks better on a dashboard, but the expensive one is more profitable.
 
 Test performance by geography first. Measure D7 retention, revenue per install, and payback period by region. Then double down on the regions that deliver the best unit economics, even if CPI is higher.
 
@@ -62,7 +64,7 @@ Narrowing your targeting to high-performing geographies can lower your effective
 
 Misleading creatives slash CPI. They also slash retention.
 
-I've tested this repeatedly. Fake gameplay, exaggerated features, and bait-and-switch hooks lower cost per install by 20–35% (illustrative example). But D7 retention collapses, and LTV drops so far that the campaign becomes unprofitable by Day 10.
+I've tested this repeatedly. Fake gameplay, exaggerated features, and bait-and-switch hooks lower cost per install by 20–35%. But D7 retention collapses, and LTV drops so far that the campaign becomes unprofitable by Day 10.
 
 According to Josh Chandley's analysis shared on LinkedIn, misleading ads lower CPI and sometimes hit D1 ROAS targets, but retention and LTV tank. When your LTV curve matures, you realize the campaign was a Trojan Horse.
 
@@ -76,11 +78,11 @@ User behavior shifts between weekdays and weekends, and between morning and even
 
 Gaming and entertainment apps often see higher engagement on weekends. Productivity and fintech apps perform better on weekdays. Testing both and reallocating budget toward your stronger windows reduces wasted spend on low-quality installs.
 
-I've also seen cases where weekend installs cost 30% less but deliver 40% lower retention (illustrative example). In those cases, weekdays are the better investment despite higher CPI.
+I've also seen cases where weekend installs cost 30% less but deliver 40% lower retention. In those cases, weekdays are the better investment despite higher CPI.
 
 Adjust your schedule based on retention data, not just cost. Testing different time windows can lower CPI by 10–20% while improving Day 1 retention, according to Linkrunner's findings.
 
-## Illustrative Example: CPI vs. D1 Retention Trade-Offs
+## The CPI vs. D1 Retention Trade-Off
 
 Here's a simplified scenario to show how the trade-off works in practice. These are illustrative numbers, not benchmarks.
 
