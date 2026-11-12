@@ -55,7 +55,7 @@ For more on how retention and LTV interact, see our guide on [LTV and ARPDAU opt
 
 ### Illustrative Example: From ARPDAU Uplift to ROAS Impact
 
-Let's run the numbers with an *illustrative example* to see how a small change in monetization can have a massive impact on your target CPI and ROAS.
+Let's run the numbers to see how a small change in monetization can have a massive impact on your target CPI and ROAS.
 
 | Metric | Baseline | Optimized Monetization |
 |--------|----------|------------------------|
