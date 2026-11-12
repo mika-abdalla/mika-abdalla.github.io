@@ -102,7 +102,7 @@ This setup captures maximum revenue from real-time competition via bidding, whil
 
 ### My Experience with Hybrid Setups
 
-From my experience managing monetization for a portfolio of apps, the switch to a hybrid model consistently delivers a 15-25% ARPDAU lift over a pure waterfall setup (illustrative example).
+In many setups, switching to a hybrid model delivers a 15-25% ARPDAU lift over a pure waterfall. The exact number depends on your bidder mix and fill.
 
 The key is to run the top 5-7 bidders who drive 80% of the value, then use a 2-3 tier waterfall to catch any remaining impressions. This eliminates the operational headache of managing a 20-tier waterfall while ensuring you don't sacrifice fill rate.
 
