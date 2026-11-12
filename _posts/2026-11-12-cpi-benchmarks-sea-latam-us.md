@@ -10,6 +10,8 @@ tags: [market, cpi, sea, latam]
 
 ## Executive Summary: CPI Is Only Half the Story
 
+**Quick definition:** here CPI means Cost Per Install, the amount you pay to acquire one app user. It is not the Consumer Price Index.
+
 The US has the highest CPIs, LATAM has the lowest, and SEA sits in between.
 
 That's the headline most UA managers are looking for.
@@ -175,7 +177,7 @@ Unity, ironSource, and AppLovin often deliver better CPIs in SEA than the duopol
 
 **Monetization:** For many casual apps in this region, ad monetization is key.
 
-A strong ad mediation stack is crucial for maximizing [eCPMs](https://example.com/ecpm-article), and formats like [offerwalls](https://example.com/offerwall-article) can provide significant revenue from non-spending users.
+A strong ad mediation stack is crucial for maximizing [eCPMs](/how-to-increase-ecpm/), and formats like [offerwalls](/offerwall-monetization-pros-and-cons/) can provide significant revenue from non-spending users.
 
 According to [Adjust's regional data](https://www.adjust.com/resources/ebooks/mobile-app-trends-sea/), SEA users engage with rewarded video at rates 30-40% higher than US users, making hybrid monetization models particularly effective.
 
